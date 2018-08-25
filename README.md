@@ -1,2 +1,2 @@
-# receitas-
+# receitas
 Receitas de cozinha 🇵🇹
